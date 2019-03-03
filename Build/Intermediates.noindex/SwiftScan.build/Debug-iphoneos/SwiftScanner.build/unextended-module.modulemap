@@ -1,0 +1,10 @@
+framework module SwiftScanner {
+  umbrella header "SwiftScanner.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftScanner.__Swift {
+    exclude header "SwiftScanner-Swift.h"
+}

@@ -1,0 +1,273 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["So20AVMetadataObjectTypea", ""]
+- ["So20AVMetadataObjectTypea", "upca"]
+- ["So20AVMetadataObjectTypea", "metadata"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AVMetadataObject"
+- "Array"
+- "StringLiteralType"
+depends-member:
+- ["So16AVMetadataObjectC", "ObjectType"]
+- ["SK", "init"]
+- ["SK", "init"]
+- ["s7CVarArgP", "ObjectType"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "ObjectType"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "ObjectType"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["Se", "init"]
+- ["Se", "init"]
+- ["SE", "init"]
+- ["SE", "init"]
+- ["SQ", "AVMetadataObject"]
+- ["SQ", "ObjectType"]
+- ["SQ", "aztec"]
+- ["SQ", "code128"]
+- ["SQ", "code39"]
+- ["SQ", "code39Mod43"]
+- ["SQ", "code93"]
+- ["SQ", "dataMatrix"]
+- ["SQ", "ean13"]
+- ["SQ", "ean8"]
+- ["SQ", "face"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "interleaved2of5"]
+- ["SQ", "itf14"]
+- ["SQ", "pdf417"]
+- ["SQ", "qr"]
+- ["SQ", "upce"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "AVMetadataObject"]
+- ["SH", "ObjectType"]
+- ["SH", "aztec"]
+- ["SH", "code128"]
+- ["SH", "code39"]
+- ["SH", "code39Mod43"]
+- ["SH", "code93"]
+- ["SH", "dataMatrix"]
+- ["SH", "ean13"]
+- ["SH", "ean8"]
+- ["SH", "face"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "interleaved2of5"]
+- ["SH", "itf14"]
+- ["SH", "pdf417"]
+- ["SH", "qr"]
+- ["SH", "upce"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["So8NSObjectC", "ObjectType"]
+- ["So8NSObjectP", "ObjectType"]
+- ["So20AVMetadataObjectTypea", "AVMetadataObject"]
+- ["So20AVMetadataObjectTypea", "aztec"]
+- ["So20AVMetadataObjectTypea", "code128"]
+- ["So20AVMetadataObjectTypea", "code39"]
+- ["So20AVMetadataObjectTypea", "code39Mod43"]
+- ["So20AVMetadataObjectTypea", "code93"]
+- ["So20AVMetadataObjectTypea", "dataMatrix"]
+- ["So20AVMetadataObjectTypea", "ean13"]
+- ["So20AVMetadataObjectTypea", "ean8"]
+- ["So20AVMetadataObjectTypea", "face"]
+- ["So20AVMetadataObjectTypea", "init"]
+- ["So20AVMetadataObjectTypea", "init"]
+- ["So20AVMetadataObjectTypea", "interleaved2of5"]
+- ["So20AVMetadataObjectTypea", "itf14"]
+- ["So20AVMetadataObjectTypea", "metadata"]
+- ["So20AVMetadataObjectTypea", "pdf417"]
+- ["So20AVMetadataObjectTypea", "qr"]
+- ["So20AVMetadataObjectTypea", "upca"]
+- ["So20AVMetadataObjectTypea", "upce"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["SY", "AVMetadataObject"]
+- ["SY", "aztec"]
+- ["SY", "code128"]
+- ["SY", "code39"]
+- ["SY", "code39Mod43"]
+- ["SY", "code93"]
+- ["SY", "dataMatrix"]
+- ["SY", "ean13"]
+- ["SY", "ean8"]
+- ["SY", "face"]
+- ["SY", "init"]
+- ["SY", "init"]
+- ["SY", "interleaved2of5"]
+- ["SY", "itf14"]
+- ["SY", "pdf417"]
+- ["SY", "qr"]
+- ["SY", "upce"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "AVMetadataObject"]
+- ["s35_HasCustomAnyHashableRepresentationP", "aztec"]
+- ["s35_HasCustomAnyHashableRepresentationP", "code128"]
+- ["s35_HasCustomAnyHashableRepresentationP", "code39"]
+- ["s35_HasCustomAnyHashableRepresentationP", "code39Mod43"]
+- ["s35_HasCustomAnyHashableRepresentationP", "code93"]
+- ["s35_HasCustomAnyHashableRepresentationP", "dataMatrix"]
+- ["s35_HasCustomAnyHashableRepresentationP", "ean13"]
+- ["s35_HasCustomAnyHashableRepresentationP", "ean8"]
+- ["s35_HasCustomAnyHashableRepresentationP", "face"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "interleaved2of5"]
+- ["s35_HasCustomAnyHashableRepresentationP", "itf14"]
+- ["s35_HasCustomAnyHashableRepresentationP", "pdf417"]
+- ["s35_HasCustomAnyHashableRepresentationP", "qr"]
+- ["s35_HasCustomAnyHashableRepresentationP", "upce"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "ObjectType"]
+- ["s21_ObjectiveCBridgeableP", "AVMetadataObject"]
+- ["s21_ObjectiveCBridgeableP", "aztec"]
+- ["s21_ObjectiveCBridgeableP", "code128"]
+- ["s21_ObjectiveCBridgeableP", "code39"]
+- ["s21_ObjectiveCBridgeableP", "code39Mod43"]
+- ["s21_ObjectiveCBridgeableP", "code93"]
+- ["s21_ObjectiveCBridgeableP", "dataMatrix"]
+- ["s21_ObjectiveCBridgeableP", "ean13"]
+- ["s21_ObjectiveCBridgeableP", "ean8"]
+- ["s21_ObjectiveCBridgeableP", "face"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "interleaved2of5"]
+- ["s21_ObjectiveCBridgeableP", "itf14"]
+- ["s21_ObjectiveCBridgeableP", "pdf417"]
+- ["s21_ObjectiveCBridgeableP", "qr"]
+- ["s21_ObjectiveCBridgeableP", "upce"]
+- ["s20_SwiftNewtypeWrapperP", "AVMetadataObject"]
+- ["s20_SwiftNewtypeWrapperP", "aztec"]
+- ["s20_SwiftNewtypeWrapperP", "code128"]
+- ["s20_SwiftNewtypeWrapperP", "code39"]
+- ["s20_SwiftNewtypeWrapperP", "code39Mod43"]
+- ["s20_SwiftNewtypeWrapperP", "code93"]
+- ["s20_SwiftNewtypeWrapperP", "dataMatrix"]
+- ["s20_SwiftNewtypeWrapperP", "ean13"]
+- ["s20_SwiftNewtypeWrapperP", "ean8"]
+- ["s20_SwiftNewtypeWrapperP", "face"]
+- ["s20_SwiftNewtypeWrapperP", "init"]
+- ["s20_SwiftNewtypeWrapperP", "init"]
+- ["s20_SwiftNewtypeWrapperP", "interleaved2of5"]
+- ["s20_SwiftNewtypeWrapperP", "itf14"]
+- ["s20_SwiftNewtypeWrapperP", "pdf417"]
+- ["s20_SwiftNewtypeWrapperP", "qr"]
+- ["s20_SwiftNewtypeWrapperP", "upce"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "So16AVMetadataObjectC"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So20AVMetadataObjectTypea"
+- "Sm"
+- "SY"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s20_SwiftNewtypeWrapperP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/SwiftScanner.h"
+- "/Users/cuilinhao/Desktop/MOBTestScan/Build/Intermediates.noindex/SwiftScan.build/Debug-iphoneos/SwiftScanner.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "b4172040edbb1474fd69efd1e9f58fc7"

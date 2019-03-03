@@ -1,0 +1,509 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "9SwiftScan14ViewControllerC"
+provides-member:
+- ["9SwiftScan14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "tableView"
+depends-top-level:
+- "BooleanLiteralType"
+- "IndexPath"
+- !private "ScannerVC"
+- "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UITableView"
+- "UITableViewController"
+- "ViewController"
+- !private "print"
+depends-member:
+- !private ["SK", "init"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "ScannerVC"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "popViewController"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "print"]
+- !private ["s7CVarArgP", "pushViewController"]
+- !private ["s7CVarArgP", "setupScanner"]
+- !private ["12SwiftScanner28CameraViewControllerDelegateP", "init"]
+- !private ["12SwiftScanner28CameraViewControllerDelegateP", "setupScanner"]
+- !private ["Sl", "init"]
+- !private ["Sl", "init"]
+- !private ["SL", "init"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "ScannerVC"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "popViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- !private ["s28CustomDebugStringConvertibleP", "pushViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "setupScanner"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "ScannerVC"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "popViewController"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- !private ["s23CustomStringConvertibleP", "pushViewController"]
+- !private ["s23CustomStringConvertibleP", "setupScanner"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SQ", "ScannerVC"]
+- !private ["SQ", "UIAlertAction"]
+- !private ["SQ", "UIAlertController"]
+- ["SQ", ""]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "default"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "popViewController"]
+- !private ["SQ", "present"]
+- !private ["SQ", "print"]
+- !private ["SQ", "pushViewController"]
+- !private ["SQ", "setupScanner"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "ScannerVC"]
+- !private ["SH", "UIAlertAction"]
+- !private ["SH", "UIAlertController"]
+- ["SH", ""]
+- !private ["SH", "addAction"]
+- !private ["SH", "alert"]
+- !private ["SH", "default"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "popViewController"]
+- !private ["SH", "present"]
+- !private ["SH", "print"]
+- !private ["SH", "pushViewController"]
+- !private ["SH", "setupScanner"]
+- !private ["12SwiftScanner28HeaderViewControllerDelegateP", "init"]
+- !private ["12SwiftScanner28HeaderViewControllerDelegateP", "setupScanner"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "ScannerVC"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "popViewController"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "print"]
+- !private ["So8NSCodingP", "pushViewController"]
+- !private ["So8NSCodingP", "setupScanner"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "ScannerVC"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "popViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "print"]
+- !private ["So26NSExtensionRequestHandlingP", "pushViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "setupScanner"]
+- ["So8NSObjectC", "IndexPath"]
+- !private ["So8NSObjectC", "ScannerVC"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UITableView"]
+- !private ["So8NSObjectC", "addAction"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "popViewController"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "print"]
+- !private ["So8NSObjectC", "pushViewController"]
+- !private ["So8NSObjectC", "setupScanner"]
+- ["So8NSObjectC", "tableView"]
+- !private ["So8NSObjectP", "ScannerVC"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "popViewController"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "print"]
+- !private ["So8NSObjectP", "pushViewController"]
+- !private ["So8NSObjectP", "setupScanner"]
+- !private ["Sm", "init"]
+- !private ["Sm", "init"]
+- !private ["SY", "alert"]
+- !private ["SY", "default"]
+- !private ["12SwiftScanner0B2VCC", "init"]
+- !private ["12SwiftScanner0B2VCC", "setupScanner"]
+- !private ["ST", "init"]
+- !private ["ST", "init"]
+- !private ["SS", "init"]
+- !private ["SS", "init"]
+- !private ["Sy", "init"]
+- !private ["Sy", "init"]
+- !private ["So22UIAlertControllerStyleV", "alert"]
+- !private ["So18UIAlertActionStyleV", "default"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["So21UIAppearanceContainerP", "ScannerVC"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "popViewController"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "print"]
+- !private ["So21UIAppearanceContainerP", "pushViewController"]
+- !private ["So21UIAppearanceContainerP", "setupScanner"]
+- !private ["So18UIContentContainerP", "ScannerVC"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "popViewController"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "print"]
+- !private ["So18UIContentContainerP", "pushViewController"]
+- !private ["So18UIContentContainerP", "setupScanner"]
+- !private ["So18UIFocusEnvironmentP", "ScannerVC"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "popViewController"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "print"]
+- !private ["So18UIFocusEnvironmentP", "pushViewController"]
+- !private ["So18UIFocusEnvironmentP", "setupScanner"]
+- !private ["So22UINavigationControllerC", "popViewController"]
+- !private ["So22UINavigationControllerC", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "ScannerVC"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "popViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "print"]
+- !private ["So30UIPasteConfigurationSupportingP", "pushViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "setupScanner"]
+- ["So11UIResponderC", "IndexPath"]
+- !private ["So11UIResponderC", "ScannerVC"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UITableView"]
+- !private ["So11UIResponderC", "addAction"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "popViewController"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "print"]
+- !private ["So11UIResponderC", "pushViewController"]
+- !private ["So11UIResponderC", "setupScanner"]
+- ["So11UIResponderC", "tableView"]
+- !private ["So30UIResponderStandardEditActionsP", "ScannerVC"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "popViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "print"]
+- !private ["So30UIResponderStandardEditActionsP", "pushViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "setupScanner"]
+- !private ["So20UIScrollViewDelegateP", "ScannerVC"]
+- !private ["So20UIScrollViewDelegateP", "UIAlertAction"]
+- !private ["So20UIScrollViewDelegateP", "UIAlertController"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "navigationController"]
+- !private ["So20UIScrollViewDelegateP", "present"]
+- !private ["So20UIScrollViewDelegateP", "print"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So16UIStateRestoringP", "ScannerVC"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "popViewController"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "print"]
+- !private ["So16UIStateRestoringP", "pushViewController"]
+- !private ["So16UIStateRestoringP", "setupScanner"]
+- ["So21UITableViewControllerC", "IndexPath"]
+- !private ["So21UITableViewControllerC", "ScannerVC"]
+- !private ["So21UITableViewControllerC", "UIAlertAction"]
+- !private ["So21UITableViewControllerC", "UIAlertController"]
+- ["So21UITableViewControllerC", "UITableView"]
+- ["So21UITableViewControllerC", ""]
+- ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "navigationController"]
+- !private ["So21UITableViewControllerC", "present"]
+- !private ["So21UITableViewControllerC", "print"]
+- ["So21UITableViewControllerC", "tableView"]
+- !private ["So21UITableViewDataSourceP", "ScannerVC"]
+- !private ["So21UITableViewDataSourceP", "UIAlertAction"]
+- !private ["So21UITableViewDataSourceP", "UIAlertController"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "navigationController"]
+- !private ["So21UITableViewDataSourceP", "present"]
+- !private ["So21UITableViewDataSourceP", "print"]
+- !private ["So19UITableViewDelegateP", "ScannerVC"]
+- !private ["So19UITableViewDelegateP", "UIAlertAction"]
+- !private ["So19UITableViewDelegateP", "UIAlertController"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "navigationController"]
+- !private ["So19UITableViewDelegateP", "present"]
+- !private ["So19UITableViewDelegateP", "print"]
+- !private ["So18UITraitEnvironmentP", "ScannerVC"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "popViewController"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "print"]
+- !private ["So18UITraitEnvironmentP", "pushViewController"]
+- !private ["So18UITraitEnvironmentP", "setupScanner"]
+- !private ["So23UIUserActivityRestoringP", "ScannerVC"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertAction"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertController"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "popViewController"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "print"]
+- !private ["So23UIUserActivityRestoringP", "pushViewController"]
+- !private ["So23UIUserActivityRestoringP", "setupScanner"]
+- ["So16UIViewControllerC", "IndexPath"]
+- !private ["So16UIViewControllerC", "ScannerVC"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UITableView"]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- !private ["So16UIViewControllerC", "popViewController"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "print"]
+- !private ["So16UIViewControllerC", "pushViewController"]
+- !private ["So16UIViewControllerC", "setupScanner"]
+- ["So16UIViewControllerC", "tableView"]
+- ["9SwiftScan14ViewControllerC", "IndexPath"]
+- !private ["9SwiftScan14ViewControllerC", "ScannerVC"]
+- !private ["9SwiftScan14ViewControllerC", "UIAlertAction"]
+- !private ["9SwiftScan14ViewControllerC", "UIAlertController"]
+- ["9SwiftScan14ViewControllerC", "UITableView"]
+- ["9SwiftScan14ViewControllerC", "init"]
+- !private ["9SwiftScan14ViewControllerC", "navigationController"]
+- !private ["9SwiftScan14ViewControllerC", "present"]
+- !private ["9SwiftScan14ViewControllerC", "print"]
+- ["9SwiftScan14ViewControllerC", "tableView"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ScannerVC"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pushViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setupScanner"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "SK"
+- "s7CVarArgP"
+- !private "12SwiftScanner28CameraViewControllerDelegateP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "12SwiftScanner28HeaderViewControllerDelegateP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sm"
+- !private "SY"
+- !private "12SwiftScanner0B2VCC"
+- !private "ST"
+- !private "SS"
+- !private "Sy"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- "So18UIFocusEnvironmentP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So16UIViewControllerC"
+- "9SwiftScan14ViewControllerC"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Users/cuilinhao/Desktop/MOBTestScan/Build/Products/Debug-iphoneos/SwiftScanner.framework/Modules/SwiftScanner.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/SwiftScanner.h"
+- "/Users/cuilinhao/Desktop/MOBTestScan/Build/Products/Debug-iphoneos/SwiftScanner.framework/Headers/SwiftScanner-Swift.h"
+- "/Users/cuilinhao/Desktop/MOBTestScan/Build/Intermediates.noindex/SwiftScan.build/Debug-iphoneos/SwiftScanner.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e21747137a9d82314db658c9ffcb259e"

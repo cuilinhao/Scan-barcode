@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "a03e42c03997315034dab0a49e987c31"
+build_time: [1551614351, 684261000]
+inputs:
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Model/TorchMode.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Controllers/HeaderVC.swift": [1551611291, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Common/Common.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Extensions/ScanAnimation.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Controllers/CameraVC.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Extensions/AVMetadataObject+Extensions.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Views/ScanView.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Extensions/UIViewController+Extensions.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Controllers/ScannerVC.swift": [1551611556, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Extensions/Platform.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Extensions/UIImage+Extensions.swift": [1551281398, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Model/ScanAnimationStyle.swift": [1551611484, 0]
+  "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/Model/CornerLocation.swift": [1551281398, 0]

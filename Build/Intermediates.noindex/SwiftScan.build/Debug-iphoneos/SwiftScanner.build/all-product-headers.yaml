@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/cuilinhao/Desktop/MOBTestScan/Build/Products/Debug-iphoneos/SwiftScanner.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftScanner-Swift.h",
+          'external-contents': "/Users/cuilinhao/Desktop/MOBTestScan/Build/Products/Debug-iphoneos/SwiftScanner.framework/Headers/SwiftScanner-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftScanner.h",
+          'external-contents': "/Users/cuilinhao/Desktop/MOBTestScan/SwiftScanner/SwiftScanner.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/cuilinhao/Desktop/MOBTestScan/Build/Products/Debug-iphoneos/SwiftScanner.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/cuilinhao/Desktop/MOBTestScan/Build/Intermediates.noindex/SwiftScan.build/Debug-iphoneos/SwiftScanner.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
